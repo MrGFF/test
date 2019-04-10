@@ -1,0 +1,33 @@
+
+	p {
+		color: #446cb3;
+	}
+
+
+   footer, div {
+   	  background-color: #eaeaea;
+   }
+
+
+   section p {
+   	color: green;
+   }
+
+    
+    span {
+    color: #2f37a2;
+    font-weight: bold;
+    font-style: italic;
+    }
+
+
+   .large-text {
+   	  font-size: 40px;
+   }
+
+   #logo {
+   	  width: 200px;
+   	  /*height: 300px;*/
+   }
+ 
+
